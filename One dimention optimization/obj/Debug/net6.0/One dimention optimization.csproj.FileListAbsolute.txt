@@ -1,0 +1,15 @@
+D:\Slaviantus general depot\univer\7 семестр\Методы оптимизаии\3 lab one dimention\One dimention optimization\One dimention optimization\bin\Debug\net6.0\One dimention optimization.exe
+D:\Slaviantus general depot\univer\7 семестр\Методы оптимизаии\3 lab one dimention\One dimention optimization\One dimention optimization\bin\Debug\net6.0\One dimention optimization.deps.json
+D:\Slaviantus general depot\univer\7 семестр\Методы оптимизаии\3 lab one dimention\One dimention optimization\One dimention optimization\bin\Debug\net6.0\One dimention optimization.runtimeconfig.json
+D:\Slaviantus general depot\univer\7 семестр\Методы оптимизаии\3 lab one dimention\One dimention optimization\One dimention optimization\bin\Debug\net6.0\One dimention optimization.dll
+D:\Slaviantus general depot\univer\7 семестр\Методы оптимизаии\3 lab one dimention\One dimention optimization\One dimention optimization\bin\Debug\net6.0\One dimention optimization.pdb
+D:\Slaviantus general depot\univer\7 семестр\Методы оптимизаии\3 lab one dimention\One dimention optimization\One dimention optimization\obj\Debug\net6.0\One dimention optimization.csproj.AssemblyReference.cache
+D:\Slaviantus general depot\univer\7 семестр\Методы оптимизаии\3 lab one dimention\One dimention optimization\One dimention optimization\obj\Debug\net6.0\One dimention optimization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Slaviantus general depot\univer\7 семестр\Методы оптимизаии\3 lab one dimention\One dimention optimization\One dimention optimization\obj\Debug\net6.0\One dimention optimization.AssemblyInfoInputs.cache
+D:\Slaviantus general depot\univer\7 семестр\Методы оптимизаии\3 lab one dimention\One dimention optimization\One dimention optimization\obj\Debug\net6.0\One dimention optimization.AssemblyInfo.cs
+D:\Slaviantus general depot\univer\7 семестр\Методы оптимизаии\3 lab one dimention\One dimention optimization\One dimention optimization\obj\Debug\net6.0\One dimention optimization.csproj.CoreCompileInputs.cache
+D:\Slaviantus general depot\univer\7 семестр\Методы оптимизаии\3 lab one dimention\One dimention optimization\One dimention optimization\obj\Debug\net6.0\One dimention optimization.dll
+D:\Slaviantus general depot\univer\7 семестр\Методы оптимизаии\3 lab one dimention\One dimention optimization\One dimention optimization\obj\Debug\net6.0\refint\One dimention optimization.dll
+D:\Slaviantus general depot\univer\7 семестр\Методы оптимизаии\3 lab one dimention\One dimention optimization\One dimention optimization\obj\Debug\net6.0\One dimention optimization.pdb
+D:\Slaviantus general depot\univer\7 семестр\Методы оптимизаии\3 lab one dimention\One dimention optimization\One dimention optimization\obj\Debug\net6.0\One dimention optimization.genruntimeconfig.cache
+D:\Slaviantus general depot\univer\7 семестр\Методы оптимизаии\3 lab one dimention\One dimention optimization\One dimention optimization\obj\Debug\net6.0\ref\One dimention optimization.dll

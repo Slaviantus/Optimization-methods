@@ -1,0 +1,7 @@
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\MO_lab1\MO_lab1\bin\Debug\MO_lab1.exe.config
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\MO_lab1\MO_lab1\bin\Debug\MO_lab1.exe
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\MO_lab1\MO_lab1\bin\Debug\MO_lab1.pdb
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\MO_lab1\MO_lab1\obj\Debug\MO_lab1.csprojAssemblyReference.cache
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\MO_lab1\MO_lab1\obj\Debug\MO_lab1.csproj.CoreCompileInputs.cache
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\MO_lab1\MO_lab1\obj\Debug\MO_lab1.exe
+D:\alexm\My documents\Славкино\Repository\hardcoreproject\MO_lab1\MO_lab1\obj\Debug\MO_lab1.pdb
